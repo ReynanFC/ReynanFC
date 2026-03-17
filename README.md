@@ -8,32 +8,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-```java
-public class Developer {
-
-    String nome     = "Reynan Ferreira";
-    String curso    = "Engenharia de Software";
-    int    semestre = 3;
-    String cidade   = "Salvador, Brasil";
-
-    String[] atualmente = {
-        "Estudando Spring Boot e APIs REST",
-        "Praticando lógica com Java",
-        "Construindo projetos fullstack"
-    };
-
-    String[] objetivo = {
-        "Me tornar um desenvolvedor fullstack sólido",
-        "Contribuir com projetos open source",
-        "Nunca parar de aprender"
-    };
-}
-```
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Back-end
