@@ -83,12 +83,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🌌 "O universo é grande o suficiente para todos os nossos sonhos — e o código, para todas as nossas ideias."
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ReynanFC&color=6C63FF&style=for-the-badge&label=Visitas+no+perfil)
-
-</div>
