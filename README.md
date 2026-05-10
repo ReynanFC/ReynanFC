@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:0a1628,100:0e3a6e&height=200&section=header&text=Reynan%20Ferreira&fontSize=52&fontColor=F0000&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=0a1f4c&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1E3A8A&height=200&section=header&text=Reynan%20Ferreira&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=93C5FD&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=0a1f4c&background=00000000&center=true&vCenter=true&width=600&height=60&lines=🚀+Desenvolvedor+Full+Stack+em+formação;☕+Java+%2B+Spring+Boot+%2B+APIs+REST;🌌+Explorando+o+universo+do+backend;⚡+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=1200&color=0a1f4c&background=00000000&center=true&vCenter=true&width=600&height=60&lines=🚀+Desenvolvedor+Full+Stack+em+formação;☕+Java+%2B+Spring+Boot+%2B+APIs+REST+e+Angular;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
