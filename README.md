@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:111827,100:1E3A8A&height=200&section=header&text=Reynan%20Ferreira&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&descColor=93C5FD&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=1200&color=93C5FD&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Angular;%F0%9F%90%B3+Docker+%7C+PostgreSQL+%7C+Redis;%F0%9F%9A%80+Desenvolvimento+Back-end+%26+Full+Stack;%F0%9F%92%A1+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=1200&color=93C5FD&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Angular;%F0%9F%90%B3+Docker+%7C+PostgreSQL+%7C+Redis;%F0%9F%93%B1+Kotlin+%7C+Jetpack+Compose+%7C+Android;%F0%9F%9A%80+Desenvolvimento+Back-end+%26+Full+Stack;%F0%9F%92%A1+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@ Sou estudante de **Engenharia de Software**, com foco em desenvolvimento **Back-
 
 Desenvolvo aplicações buscando ir além da implementação das funcionalidades, explorando conceitos como **arquitetura, segurança, persistência de dados, cache, testes automatizados, containerização e CI/CD**.
 
-Atualmente, meu principal ecossistema é **Java + Spring Boot + Angular**, e tenho interesse em aprofundar meus conhecimentos em **arquitetura de software, sistemas distribuídos, infraestrutura e DevOps**.
+Atualmente, meu principal ecossistema é **Java + Spring Boot + Angular**, e tenho interesse em aprofundar meus conhecimentos em **arquitetura de software, sistemas distribuídos, infraestrutura e DevOps**. Também estou expandindo para o **desenvolvimento mobile**, aprendendo **Kotlin** e **Jetpack Compose**.
 
 ---
 
@@ -64,6 +64,7 @@ O sistema gerencia produtos, movimentações de estoque e vendas, utilizando per
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
@@ -71,6 +72,15 @@ O sistema gerencia produtos, movimentações de estoque e vendas, utilizando per
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### 📱 Mobile
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ### 🎨 Front-end
@@ -115,10 +125,11 @@ O sistema gerencia produtos, movimentações de estoque e vendas, utilizando per
 
 ## 📚 Atualmente
 
+- 📱 Aprendendo **desenvolvimento mobile** com **Kotlin** e **Jetpack Compose**
 - 🌐 Aprofundando conhecimentos em **Redes de Computadores**
 - 🏗️ Estudando **arquitetura e boas práticas de desenvolvimento**
 - 🐳 Explorando **Docker, CI/CD e infraestrutura**
-- ⚙️ Evoluindo conhecimentos em **back-end com Java e Spring**
+- ⚙️ Evoluindo conhecimentos em **back-end com Java, Kotlin e Spring**
 - 🚀 Buscando minha primeira oportunidade profissional em desenvolvimento de software
 
 ---
