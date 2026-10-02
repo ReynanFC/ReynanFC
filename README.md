@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=1200&color=93C5FD&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Angular;%F0%9F%90%B3+Docker+%7C+PostgreSQL+%7C+Redis;%F0%9F%93%B1+Kotlin+%7C+Jetpack+Compose+%7C+Android;%F0%9F%9A%80+Desenvolvimento+Back-end+%26+Full+Stack;%F0%9F%92%A1+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=ReynanFC&label=Visitas&color=1E3A8A&style=flat-square"/>
+
 </div>
 
 ---
@@ -12,145 +14,96 @@
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento **Back-end e Full Stack**.
 
-Desenvolvo aplicações buscando ir além da implementação das funcionalidades, explorando conceitos como **arquitetura, segurança, persistência de dados, cache, testes automatizados, containerização e CI/CD**.
-
-Atualmente, meu principal ecossistema é **Java + Spring Boot + Angular**, e tenho interesse em aprofundar meus conhecimentos em **arquitetura de software, sistemas distribuídos, infraestrutura e DevOps**. Também estou expandindo para o **desenvolvimento mobile**, aprendendo **Kotlin** e **Jetpack Compose**.
+Gosto de ir além de "fazer funcionar": exploro **arquitetura, segurança, persistência, cache, testes automatizados, containerização e CI/CD**. Meu ecossistema principal é **Java + Spring Boot + Angular**, e estou expandindo para **mobile** com **Kotlin** e **Jetpack Compose**.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Stack
+
+<div align="center">
+  <img src="assets/tech-stack.svg" alt="Tecnologias que utilizo" width="100%"/>
+</div>
+
+---
+
+## 🚀 Projetos
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌴 [Caraíva Tours Hub](https://github.com/ReynanFC/caraiva-tours-hub)
 
-> Sistema **Full Stack** desenvolvido a partir de um problema real de gestão de uma empresa de turismo, centralizando reservas, clientes, pagamentos, passeios, usuários e indicadores operacionais em uma única plataforma.
+Sistema **Full Stack** criado a partir de um problema real de gestão de uma empresa de turismo: reservas, clientes, pagamentos, passeios e indicadores em uma só plataforma.
 
-A aplicação possui **autenticação JWT e controle de acesso baseado em papéis (RBAC)**, gerenciamento do ciclo de reservas e pagamentos, dashboards operacionais e financeiros, atualização de dados em tempo real via **Server-Sent Events (SSE)**, geração de relatórios em PDF, cache e rate limiting utilizando **Redis**, migrações de banco de dados com Flyway e testes automatizados com JUnit e Testcontainers.
+- 🔐 JWT + RBAC
+- ⚡ Dados em tempo real com SSE
+- 🧠 Cache e rate limiting com Redis
+- 📄 Relatórios em PDF
+- 🐳 Docker + NGINX
+- 🧪 JUnit + Testcontainers
 
-A infraestrutura da aplicação é containerizada com **Docker**, integrando o frontend Angular, API Spring Boot, PostgreSQL, Redis e NGINX.
-
-**Principais tecnologias**
-
-`Java 21` `Spring Boot` `Angular` `TypeScript` `PostgreSQL` `Redis` `Docker` `NGINX` `Spring Security` `JWT` `SSE` `Flyway` `JasperReports` `JUnit` `Testcontainers`
-
-<p>
-  <a href="https://github.com/ReynanFC/caraiva-tours-hub">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏪 [Inventory & Sales Management](https://github.com/ReynanFC/inventory-sales-management)
 
-> API REST para gerenciamento de estoque e vendas no varejo, desenvolvida com foco em **regras de negócio, consistência de dados e controle transacional**.
+API REST para estoque e vendas no varejo, com foco em **regras de negócio, consistência de dados e controle transacional**.
 
-O sistema gerencia produtos, movimentações de estoque e vendas, utilizando persistência relacional, migrações de banco de dados e testes de integração.
+- 📦 Produtos e movimentações de estoque
+- 💰 Vendas com controle transacional
+- 🗃️ Migrações com Flyway
+- 📚 Documentação com Swagger
+- 🧪 Testes de integração
 
-**Principais tecnologias**
-
-`Java` `Spring Boot` `MySQL` `REST API` `Flyway` `MapStruct` `Swagger` `JUnit` `Testcontainers`
-
-<p>
-  <a href="https://github.com/ReynanFC/inventory-sales-management">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 📊 Meu GitHub em números
 
-### ☕ Back-end
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/JasperReports-0273B3?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ReynanFC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=93C5FD&icon_color=60A5FA&text_color=E2E8F0&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReynanFC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=93C5FD&text_color=E2E8F0&langs_count=8"/>
 
-### 📱 Mobile
+<br>
 
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=ReynanFC&theme=tokyonight&hide_border=true&background=0F172A&ring=60A5FA&fire=93C5FD&currStreakLabel=93C5FD"/>
 
-### 🎨 Front-end
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🐳 DevOps & Infraestrutura
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🧪 Testes & Desenvolvimento
-
-<p>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Testcontainers-2A2E33?style=for-the-badge&logo=testcontainers&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReynanFC/ReynanFC/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReynanFC/ReynanFC/output/github-snake.svg"/>
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/ReynanFC/ReynanFC/output/github-snake-dark.svg"/>
+</picture>
+</div>
 
 ---
 
-## 📚 Atualmente
+## 📚 Estudando agora
 
-- 📱 Aprendendo **desenvolvimento mobile** com **Kotlin** e **Jetpack Compose**
-- 🌐 Aprofundando conhecimentos em **Redes de Computadores**
-- 🏗️ Estudando **arquitetura e boas práticas de desenvolvimento**
-- 🐳 Explorando **Docker, CI/CD e infraestrutura**
-- ⚙️ Evoluindo conhecimentos em **back-end com Java, Kotlin e Spring**
-- 🚀 Buscando minha primeira oportunidade profissional em desenvolvimento de software
+- 📱 Kotlin + Jetpack Compose
+- 🌐 Redes de Computadores
+- 🏗️ Arquitetura e boas práticas
+- 🐳 Docker, CI/CD e infraestrutura
+
+🚀 **Buscando minha primeira oportunidade profissional em desenvolvimento de software.**
 
 ---
-
-## 📫 Contato
 
 <div align="center">
 
 <a href="https://linkedin.com/in/reynan-ferreira-correia-5518a0354">
   <img src="https://img.shields.io/badge/LinkedIn-Reynan%20Ferreira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/ReynanFC">
   <img src="https://img.shields.io/badge/GitHub-ReynanFC-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 ### 💻 Transformando aprendizado em software.
 
