@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=1200&color=93C5FD&background=00000000&center=true&vCenter=true&width=650&height=60&lines=%E2%98%95+Java+%7C+Spring+Boot+%7C+Angular;%F0%9F%90%B3+Docker+%7C+PostgreSQL+%7C+Redis;%F0%9F%93%B1+Kotlin+%7C+Jetpack+Compose+%7C+Android;%F0%9F%9A%80+Desenvolvimento+Back-end+%26+Full+Stack;%F0%9F%92%A1+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ReynanFC&label=Visitas&color=1E3A8A&style=flat-square"/>
 
 </div>
 
