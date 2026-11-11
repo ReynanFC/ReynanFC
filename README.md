@@ -29,6 +29,21 @@ Gosto de ir além de "fazer funcionar": exploro **arquitetura, segurança, persi
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🎟️ [TicketRush](https://github.com/ReynanFC/TicketRush)
+
+Plataforma de venda de ingressos com **microsserviços em Kotlin + Spring e RabbitMQ**, projetada para aguentar picos de demanda sem perder consistência.
+
+- 🔄 Saga orquestrada
+- 📤 Transactional Outbox
+- ♻️ Consumidores idempotentes
+- ⏱️ Retry com backoff e DLQ
+- 🧪 Testada com cenários de caos e carga
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌴 [Caraíva Tours Hub](https://github.com/ReynanFC/caraiva-tours-hub)
