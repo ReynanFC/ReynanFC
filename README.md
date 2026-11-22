@@ -31,15 +31,20 @@ Gosto de ir além de "fazer funcionar": exploro **arquitetura, segurança, persi
 <tr>
 <td colspan="2" valign="top">
 
-### 🎟️ [TicketRush](https://github.com/ReynanFC/TicketRush)
+### 🎟️ [TicketRush](https://github.com/ReynanFC/ticketRush) · 🚧 em desenvolvimento
 
-Plataforma de venda de ingressos com **microsserviços em Kotlin + Spring e RabbitMQ**, projetada para aguentar picos de demanda sem perder consistência.
+Plataforma de venda de ingressos em **Kotlin + Spring Boot**, construída em etapas: começa como monólito e evolui para **microsserviços com RabbitMQ**, projetada para aguentar picos de demanda sem vender mais ingressos do que existem.
 
-- 🔄 Saga orquestrada
-- 📤 Transactional Outbox
-- ♻️ Consumidores idempotentes
-- ⏱️ Retry com backoff e DLQ
-- 🧪 Testada com cenários de caos e carga
+**Já feito**
+- 🏛️ Módulo de catálogo (eventos, setores e lotes) em arquitetura hexagonal
+- 🧪 Testes de unidade, de controller e de integração com Testcontainers
+- ⚙️ CI no GitHub Actions, Gitflow com PRs e decisões registradas em ADRs
+- 🧵 Java 25 com Virtual Threads
+
+**Próximas etapas**
+- 🔒 Reserva com controle de concorrência e pedido como máquina de estados
+- 📤 Transactional Outbox, consumidores idempotentes, retry com DLQ
+- 🔄 Extração para microsserviços com saga orquestrada
 
 </td>
 </tr>
@@ -67,8 +72,22 @@ API REST para estoque e vendas no varejo, com foco em **regras de negócio, cons
 - 📦 Produtos e movimentações de estoque
 - 💰 Vendas com controle transacional
 - 🗃️ Migrações com Flyway
+- 🚦 Fluxo de status da venda com estorno de estoque
 - 📚 Documentação com Swagger
-- 🧪 Testes de integração
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔎 [Cadê?](https://github.com/p1lloww/cade-backend) · 👥 projeto em equipe · 🚧 em desenvolvimento
+
+Achados e perdidos da UCSal: o estudante registra a perda online, a sala cadastra o que chega e o sistema sugere os pares prováveis. **Java 25 + Spring Boot e Angular.**
+
+- 🙋 Minha parte: módulo de acesso, com login sem senha por código enviado ao e-mail institucional
+- 🔐 JWT + Spring Security Resource Server
+- 🧠 Códigos de uso único guardados no Redis
+- 🧪 Testes dos endpoints com MockMvc
 
 </td>
 </tr>
