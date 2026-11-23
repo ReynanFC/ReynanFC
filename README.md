@@ -13,7 +13,7 @@
 
 Sou estudante de **Engenharia de Software**, com foco em desenvolvimento **Back-end e Full Stack**.
 
-Gosto de ir além de "fazer funcionar": exploro **arquitetura, segurança, persistência, cache, testes automatizados, containerização e CI/CD**. Meu ecossistema principal é **Java + Spring Boot + Angular**, e estou expandindo para **mobile** com **Kotlin** e **Jetpack Compose**.
+Gosto de ir além de "fazer funcionar": exploro **arquitetura, segurança, persistência, cache, testes automatizados, containerização e CI/CD**. Meu ecossistema principal envolve **Java, Spring Boot, Kotlin e Angular**.
 
 ---
 
@@ -118,14 +118,9 @@ Achados e perdidos da UCSal: o estudante registra a perda online, a sala cadastr
 
 ---
 
-## 📚 Estudando agora
+## 🎯 Objetivo
 
-- 📱 Kotlin + Jetpack Compose
-- 🌐 Redes de Computadores
-- 🏗️ Arquitetura e boas práticas
-- 🐳 Docker, CI/CD e infraestrutura
-
-🚀 **Buscando minha primeira oportunidade profissional em desenvolvimento de software.**
+🚀 **Buscando minha primeira oportunidade profissional em desenvolvimento de software**, onde eu possa aplicar meus conhecimentos em arquitetura, construção de APIs robustas e resolução de problemas reais em equipe.
 
 ---
 
