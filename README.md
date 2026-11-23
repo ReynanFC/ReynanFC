@@ -80,14 +80,25 @@ API REST para estoque e vendas no varejo, com foco em **regras de negócio, cons
 <tr>
 <td colspan="2" valign="top">
 
-### 🔎 [Cadê?](https://github.com/p1lloww/cade-backend) · 👥 projeto em equipe · 🚧 em desenvolvimento
+### 🔎 [Cadê?](https://github.com/p1lloww/cade-backend) · 👥 projeto em equipe · 🎓 POOALAB 2026.2
 
 Achados e perdidos da UCSal: o estudante registra a perda online, a sala cadastra o que chega e o sistema sugere os pares prováveis. **Java 25 + Spring Boot e Angular.**
 
-- 🙋 Minha parte: módulo de acesso, com login sem senha por código enviado ao e-mail institucional
-- 🔐 JWT + Spring Security Resource Server
-- 🧠 Códigos de uso único guardados no Redis
-- 🧪 Testes dos endpoints com MockMvc
+**Arquitetura e segurança**
+- 🧩 Monólito modular com fronteiras validadas por ArchUnit
+- 🔐 Login sem senha: código de uso único (hash no PostgreSQL) trocado por JWT, com Spring Security Resource Server
+- 🏷️ Autorização por perfil com `@RequiresRole` (anotação própria + reflexão) e teste que barra rota sem perfil
+
+**POOA na prática**
+- 🚦 **State** com sealed interface + records nas situações do objeto, da perda e da sugestão
+- 🧮 **Strategy + Composite** na nota do cruzamento, explicável critério a critério
+- 📣 **Observer** com eventos do Spring após o commit, em **Virtual Threads**
+- 🔒 **Lock otimista** (`@Version`) contra convocação dupla e corrida no limite de registros
+- 📤 **Transactional Outbox** para os e-mails nunca se perderem nem saírem em dobro
+
+**Qualidade**
+- 🧪 Testes com JUnit, MockMvc e Testcontainers
+- ⚙️ CI no GitHub Actions com PR revisado por outro integrante
 
 </td>
 </tr>
